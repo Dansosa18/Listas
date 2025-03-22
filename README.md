@@ -22,7 +22,7 @@ Hemos trabajado en diversos ejercicios usando la lista enlazada. Algunos de esto
 - Eliminar un nodo basado en un valor dado.
 - Ordenar la lista en orden ascendente.
 
-Dentro de eso Realizamos estos Ejercicios:
+##Dentro de eso Realizamos estos Ejercicios:
 
 -Ejercicio 1: Ordenar la lista de forma ascendente.
 
@@ -30,7 +30,7 @@ Dentro de eso Realizamos estos Ejercicios:
 
 -Ejercicio 3: Separar números pares e impares en dos listas enlazadas diferentes.
 
-Tambien hemos implementado los metodos:
+##Tambien hemos implementado los metodos:
 
 -Método 1: Invertir la lista enlazada.
 
@@ -39,6 +39,8 @@ Tambien hemos implementado los metodos:
 -Método 3: Eliminar duplicados en una lista enlazada.
 
 -Método 4: Obtener el tamaño de la lista enlazada.
+
+###Todo Esto lo Ejecutamos desde nuestra clase PRINCIPAL
 
 
 
