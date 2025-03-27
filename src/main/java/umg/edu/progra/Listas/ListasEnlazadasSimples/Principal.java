@@ -1,4 +1,4 @@
-package umg.edu.progra.Listas;
+package umg.edu.progra.Listas.ListasEnlazadasSimples;
 
 public class Principal {
 

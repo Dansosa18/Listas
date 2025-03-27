@@ -1,4 +1,4 @@
-package umg.edu.progra.Listas;
+package umg.edu.progra.Listas.ListasEnlazadasSimples;
 
 /**
  * La clase Lista representa una lista enlazada que almacena instancias de Nodo

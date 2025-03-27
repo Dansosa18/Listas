@@ -1,4 +1,4 @@
-package umg.edu.progra.Listas;
+package umg.edu.progra.Listas.ListasEnlazadasSimples;
 
 /**
  * La clase Nodo representa un elemento de una lista enlazada en la que se almacenan datos.
